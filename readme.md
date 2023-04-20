@@ -2,6 +2,12 @@
 
 [招待リンク](https://discord.com/api/oauth2/authorize?client_id=889584860308570113&permissions=3147904&scope=bot)
 
+# お知らせ
+
+新しい Discord.js (14.x) と Nodejs (18.x) 向けに [新しいリポジトリ](https://github.com/sakkuntyo/discord-sktrythmjs2) に移行しました。
+
+恐らくこのリポジトリはもう更新されませんし、このコードを実行しても Discord 側が対応していない様子なので、動作しません。
+
 ## 目的
 
 - ?
